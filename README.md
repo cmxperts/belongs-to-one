@@ -1,4 +1,4 @@
-Belongs To One Relation for Laravel 5.5
+Belongs To One Relation for Laravel 10
 =====================================
 
 ![Travis CI](https://travis-ci.org/cmXperts/belongs-to-one.svg?branch=master)
